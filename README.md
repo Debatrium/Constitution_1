@@ -70,7 +70,7 @@ a. In the initial phase of Debatrium, if there is no incumbent for other positio
 
 ## Article III: Provisions for Amendment
 
-This constitution may be amended the CEO without approval of other management members or, in the event of the founder/CEO's death, by the Executive Leader together with the approval of the COO and the Administrator.<br><br>
+This constitution may be amended the CEO without approval of other management members or, in the event of the founder/CEO's death, by the Executive Leader together with the approval of the COO and the Administrator.<br>
 
 Amendments must adhere to the principles of liberty, respect, and fairness.
 
